@@ -1,6 +1,8 @@
 @charset "UTF-8";
 @import "reset.css";
 @import "frameStyle.css";
+@import "projectsStyle.css";
+
 @font-face{font-family: 'montserrat';font-weight: normal;src: url("../fonts/Montserrat/Montserrat-Regular.ttf");}
 @font-face{font-family: 'montserrat';font-weight: bold;src: url("../fonts/Montserrat/Montserrat-Bold.ttf");}
 
