@@ -87,3 +87,14 @@
     color:black;
 }
 
+
+/* partners list */
+
+.partners__list{
+    /* align-items: center; */
+    /* justify-content: space-between; */
+}
+
+#partners{
+    margin-top: 100px;
+}
